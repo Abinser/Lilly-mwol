@@ -120,7 +120,7 @@
             "required": false,
             "value": "default"
         },
-        "WORK_TYPE": {
+        "WORK_TYPE": {private
             "description": "WhatsAsena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
